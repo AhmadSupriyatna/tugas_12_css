@@ -1,0 +1,43 @@
+
+body{
+    background-image: linear-gradient(to right top, aqua, white);
+}
+    header, footer{
+    background-color: black;
+}
+ul{
+    padding: 10px;
+}
+li{
+    display: inline-block;
+    margin-right: 20px;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+header, footer{
+    
+    background-color: black;
+}
+.slider-img{
+    width: 100%;
+}
+.image{
+    float: left;
+    width: 10%;
+    margin: 20px;
+}
+.p-text{
+    column-count: 4;
+    text-align: justify;
+    column-rule: solid 1px;
+    font-size: 18x;
+    column-fill: balance;
+    
+}
+h2{
+    color: white;
+    text-align: center;
+}
